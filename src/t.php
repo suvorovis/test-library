@@ -20,3 +20,5 @@ $p = ajsdfhk();
 
 $p = new \suvorov\Folder\SomeNewClass();
 $p->execute();
+
+echo "some shirt!";
